@@ -1,0 +1,300 @@
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Regular.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display'), local('/assets/fonts/AtypDisplay/AtypDisplay-Regular'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Regular.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Regular.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Thin Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Semibold.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Semibold'), local('/assets/fonts/AtypDisplay/AtypDisplay-Semibold'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Semibold.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Semibold.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Bold Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Thin.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Thin'), local('/assets/fonts/AtypDisplay/AtypDisplay-Thin'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Thin.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Thin.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-BoldItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Bold Italic'), local('/assets/fonts/AtypDisplay/AtypText-BoldItalic'),
+        url('/assets/fonts/AtypDisplay/AtypText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-BoldItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-BoldItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Italic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-Italic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Italic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Italic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Semibold Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Light.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Light'), local('/assets/fonts/AtypDisplay/AtypDisplay-Light'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Light.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Light.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Medium.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Medium'), local('/assets/fonts/AtypDisplay/AtypDisplay-Medium'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Medium.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Medium.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Light Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Bold.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Bold'), local('/assets/fonts/AtypDisplay/AtypText-Bold'),
+        url('/assets/fonts/AtypDisplay/AtypText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Bold.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Bold.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-Bold.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Bold'), local('/assets/fonts/AtypDisplay/AtypDisplay-Bold'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Bold.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Bold.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Display Medium Italic'), local('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypDisplay-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Thin.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Thin'), local('/assets/fonts/AtypDisplay/AtypText-Thin'),
+        url('/assets/fonts/AtypDisplay/AtypText-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Thin.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Thin.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Variable';
+    src: url('/assets/fonts/AtypDisplay/AtypRegularVariable.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Variable'), local('/assets/fonts/AtypDisplay/AtypRegularVariable'),
+        url('/assets/fonts/AtypDisplay/AtypRegularVariable.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypRegularVariable.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypRegularVariable.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypRegularVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Italic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Italic'), local('/assets/fonts/AtypDisplay/AtypText-Italic'),
+        url('/assets/fonts/AtypDisplay/AtypText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Italic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Italic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Semibold.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Semibold'), local('/assets/fonts/AtypDisplay/AtypText-Semibold'),
+        url('/assets/fonts/AtypDisplay/AtypText-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Semibold.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Semibold.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Semibold Italic'), local('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic'),
+        url('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Regular.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text'), local('/assets/fonts/AtypDisplay/AtypText-Regular'),
+        url('/assets/fonts/AtypDisplay/AtypText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Regular.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Regular.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-MediumItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Medium Italic'), local('/assets/fonts/AtypDisplay/AtypText-MediumItalic'),
+        url('/assets/fonts/AtypDisplay/AtypText-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-MediumItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-MediumItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Medium.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Medium'), local('/assets/fonts/AtypDisplay/AtypText-Medium'),
+        url('/assets/fonts/AtypDisplay/AtypText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Medium.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Medium.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-Light.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Light'), local('/assets/fonts/AtypDisplay/AtypText-Light'),
+        url('/assets/fonts/AtypDisplay/AtypText-Light.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-Light.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-Light.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-LightItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Light Italic'), local('/assets/fonts/AtypDisplay/AtypText-LightItalic'),
+        url('/assets/fonts/AtypDisplay/AtypText-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-LightItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-LightItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('/assets/fonts/AtypDisplay/AtypText-ThinItalic.eot');
+    src: local('/assets/fonts/AtypDisplay/Atyp Text Thin Italic'), local('/assets/fonts/AtypDisplay/AtypText-ThinItalic'),
+        url('/assets/fonts/AtypDisplay/AtypText-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/fonts/AtypDisplay/AtypText-ThinItalic.woff2') format('woff2'),
+        url('/assets/fonts/AtypDisplay/AtypText-ThinItalic.woff') format('woff'),
+        url('/assets/fonts/AtypDisplay/AtypText-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
